@@ -2,7 +2,7 @@
 
 
 #### 💻 **My Tech Stack**
-- **Languages:** Python, C
+- **Languages:** Python, C, Java
 - **Frontend:** HTML5 / CSS3
 
 
