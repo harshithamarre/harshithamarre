@@ -3,7 +3,7 @@
 
 #### 💻 **My Tech Stack**
 - **Languages:** Python, C, Java
-- **Frontend:** HTML5 / CSS3
+- **Frontend:** HTML5, CSS3
 
 
 #### 💡 **My Interests**
