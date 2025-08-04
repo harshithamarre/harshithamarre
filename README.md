@@ -15,7 +15,7 @@
 - **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
 
 
-####👨‍💻 **My profiles**
+#### 👨‍💻 **My profiles**
 - **LeetCode**: https://leetcode.com/u/harshithamarre
 - **CodeChef**: https://www.codechef.com/users/marreharshitha
 
