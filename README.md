@@ -14,7 +14,12 @@
 #### 🚀 **A Few Things I'm Working On**
 - **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
 
-  
+
+####👨‍💻 **My profiles**
+- **LeetCode**: https://leetcode.com/u/harshithamarre
+- **CodeChef**: https://www.codechef.com/users/marreharshitha
+
+
 #### 📫 **Let's Connect**
 - **LinkedIn:** https://www.linkedin.com/in/harshitha-priya-marre-329922321
 - Let's connect if you're a student too or have advice for someone starting out in tech!
