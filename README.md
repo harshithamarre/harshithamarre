@@ -13,7 +13,7 @@
 
 #### 🚀 **A Few Things I'm Working On**
 - **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
-- **VitalityZone**: 
+- **VitalityZone**: This project focus on overall well being. Conveys wisdom and insight into healthy living.
 
 
 #### 👨‍💻 **My profiles**
