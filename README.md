@@ -9,17 +9,21 @@
 #### 💡 **My Interests**
 - **Core Areas:** Full-Stack Development, Data Structures & Algorithms, UI/UX Design
 - **Technologies I'm excited about:** React, Next.js, Figma, Vercel
-  
-
-#### 🚀 **A Few Things I'm Working On**
-- **VitalityZone**: This project focus on overall well being. Conveys wisdom and insight into healthy living. Suggests balance and companionship in achieving wellness goals.
-- **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
 
 
 #### 👨‍💻 **My profiles**
 - **LeetCode**: https://leetcode.com/u/harshithamarre
 - **CodeChef**: https://www.codechef.com/users/marreharshitha
 - **InterviewBit**: https://www.interviewbit.com/profile/harshi-marre
+
+
+#### 📝 **My Projects**
+- **PlayZone**: This project is a gaming hub designed to bring gamers together through individual gaming experiences. This platform offers a variety of single-player games.
+
+
+#### 🚀 **A Few Things I'm Working On**
+- **VitalityZone**: This project focus on overall well being. Conveys wisdom and insight into healthy living. Suggests balance and companionship in achieving wellness goals.
+- **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
 
 
 #### 📫 **Let's Connect**
