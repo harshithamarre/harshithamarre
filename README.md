@@ -19,11 +19,11 @@
 
 #### 📝 **My Projects**
 - **PlayZone**: This project is a gaming hub designed to bring gamers together through individual gaming experiences. This platform offers a variety of single-player games.
+- **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
 
 
 #### 🚀 **A Few Things I'm Working On**
 - **VitalityZone**: This project focus on overall well being. Conveys wisdom and insight into healthy living. Suggests balance and companionship in achieving wellness goals.
-- **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
 
 
 #### 📫 **Let's Connect**
