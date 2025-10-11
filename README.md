@@ -4,6 +4,7 @@
 #### 💻 **My Tech Stack**
 - **Languages:** Python, C, Java
 - **Frontend:** HTML5, CSS3
+- **Backend:** MySQL
 
 
 #### 💡 **My Interests**
