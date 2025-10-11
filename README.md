@@ -3,13 +3,13 @@
 
 #### 💻 Tech Stack
 
-**Programming Languages:** 
+- **Programming Languages:** 
 `Python` `C` `Java`
 
-**Frontend:**
+- **Frontend:**
 `HTML5` `CSS3` `JavaScript`
 
-**Backend:**
+- **Backend:**
 `MySQL`
 
 
