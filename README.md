@@ -1,10 +1,16 @@
 ### Hi, I'm Harshitha Priya 👋
 
 
-#### 💻 **My Tech Stack**
-- **Languages:** Python, C, Java
-- **Frontend:** HTML5, CSS3
-- **Backend:** MySQL
+#### 💻 Tech Stack
+
+**Programming Languages:** 
+`Python` `C` `Java`
+
+**Frontend:**
+`HTML5` `CSS3` `JavaScript`
+
+**Backend:**
+`MySQL`
 
 
 #### 💡 **My Interests**
