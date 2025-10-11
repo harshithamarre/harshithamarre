@@ -9,7 +9,7 @@
 
 #### 💡 **My Interests**
 - **Core Areas:** Full-Stack Development, Data Structures & Algorithms, UI/UX Design
-- **Technologies I'm excited about:** React, Figma, Vercel, Django, Nodejs, PHP, SQL
+- **Technologies I'm excited about:** React, Figma, Vercel, Django, Nodejs, PHP
 
 
 #### 👨‍💻 **My profiles**
