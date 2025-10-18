@@ -4,7 +4,7 @@
 #### 💻 Tech Stack
 
 - **Programming Languages:** 
-`Python` `C` `Java`
+`Python3` `C` `Java`
 
 - **Frontend:**
 `HTML5` `CSS3` `JavaScript`
