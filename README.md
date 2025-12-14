@@ -10,8 +10,10 @@
 `HTML5` `CSS3` `JavaScript`
 
 - **Backend:**
-`MySQL`
+ `Python`
 
+- **Database:**
+ `MySQL`
 
 #### 💡 **My Interests**
 - **Core Areas:** Full-Stack Development, Data Structures & Algorithms, UI/UX Design
