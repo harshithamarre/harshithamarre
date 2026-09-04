@@ -29,13 +29,13 @@
 #### 📝 **My Projects**
 - **PlayZone**: This project is a gaming hub designed to bring gamers together through individual gaming experiences. This platform offers a variety of single-player games.
 - **Career-Canvas**: This project aims to provide a comprehensive platform for personalized career advice, skill development resources, and job matching capabilities to help individuals navigate their professional journeys.
+- **Stock Price Prediction**: A machine learning and deep learning project for predicting stock market trends and forecasting future stock prices based on historical financial data.
 
 
-#### 🚀 **A Few Things I'm Working On**
-- **VitalityZone**: This project focus on overall well being. Conveys wisdom and insight into healthy living. Suggests balance and companionship in achieving wellness goals.
+<!-- #### 🚀 **A Few Things I'm Working On** -->
 
 
 #### 📫 **Let's Connect**
-- **LinkedIn:** https://www.linkedin.com/in/harshitha-priya-marre-329922321
+- **LinkedIn:** https://www.linkedin.com/in/harshithapriyamarre
 - Let's connect if you're a student too or have advice for someone starting out in tech!
 - I'm open to collaborating on impactful open-source projects or discussing opportunities in Technology, Artificial Intelligence.
